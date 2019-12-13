@@ -8,7 +8,7 @@ variable "keyvault_name" {
 
 variable "azure_region" {
   type    = string
-  default = "eastus"
+  default = "westus"
 }
 
 #  Resource Group Name
